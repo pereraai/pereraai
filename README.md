@@ -1,59 +1,31 @@
 # 👋 Hi, I'm Kushan Perera
 
-I am a multi-cloud architect & Lead Software Engineer specializing in Cloud + AI solutions
+I build agentic AI systems and multi-agent workflows for enterprise environments.
 
-I'm a passionate technologist with over a decade of experience solving complex business problems through innovative cloud architecture and AI solutions. 
-
-I currently lead technical teams at Northwell Health, where I design, develop, and deploy enterprise-scale solutions.
+Currently working as an Engineering Manager, Forward Deployed Engineering (Gen AI) at Accenture in New York. I lead enterprise AI platform deployments for clients like Anthropic, OpenAI, and Microsoft, transforming ambiguous business challenges into operational production systems.
 
 ### 🔭 What I do
-- Design and implement cloud-native architectures (Microsoft Azure, Google Cloud)
-- Lead development of Microsoft 365 & SharePoint Online solutions
-- Build AI-powered applications with a focus on Generative AI
-- Architect Power Platform solutions for business process automation
 
-### 🏆 Achievements
-- Microsoft MVP for 3 consecutive years (2017-2019)
-- Microsoft Certified Professional (Since 2011)
-- Google Certified Cloud Architect (Since 2025)
-- Successfully led projects that improved customer engagement and productivity by 30%
+*   Architect Agentic AI and Retrieval-Augmented Generation (RAG) systems processing enterprise healthcare data at scale.
+*   Develop Model Context Protocol (MCP) architectures, FastMCP integrations, and multi-agent workflows.
+*   Establish governance frameworks for generative AI deployments in regulated environments.
+*   Built and deployed advanced AI agents utilizing Amazon Bedrock at Horizon Blue Cross Blue Shield.
+*   Previously managed eight direct reports at Northwell Health, focusing on organization-wide multi-agent productivity projects.
 
 ### 💻 Tech Stack
-```
-│── Cloud Platforms
-│   └── Google Cloud Platform (GCP)
-│   ├── Microsoft Azure
-│
-│── Microsoft Technologies
-│   ├── Microsoft 365
-│   ├── SharePoint Online
-│   ├── Microsoft Power Platform
-│   └── Microsoft Copilot
-│   └── Microsoft Copilot Studio
-│
-│── Artificial Intelligence & MLOps
-│   ├── Vertex AI
-│   ├── AutoML
-│
-│── Development
-│   ├── React/JavaScript
-│   ├── SharePoint Framework (SPFx)
-│   └── RESTful APIs
-│
-│── DevOps & Tools
-│   ├── Azure DevOps
-│   ├── GitHub Enterprise
-│   ├── Agile/Scrum
-│   └── Infrastructure as Code (IaC)
-```
 
-### 🌱 Currently exploring
-- Advanced MLOps implementations
-- Generative AI applications in healthcare
-- Cloud-native distributed systems
-- Infrastructure as Code optimization
-
-### 📫 Connect with me
-- LinkedIn: [www.linkedin.com/in/architect-kushan-perera](https://www.linkedin.com/in/architect-kushan-perera)
-- Email: me@kushanperera.com
-- Book an appointment: [https://topmate.io/kushan_perera](https://topmate.io/kushan_perera)
+```text
+├── AI & Agentic Frameworks
+│   ├── Model Context Protocol (MCP) & FastMCP
+│   ├── Amazon Bedrock AgentCore
+│   ├── Claude Code & Antigravity CLI
+│   └── Hermes & OpenClaw
+├── Languages
+│   ├── Python
+│   └── TypeScript
+└── Infrastructure & Cloud
+    ├── Docker
+    ├── Cloudflare (Workers, D1, R2)
+    ├── Vultr & Oracle Cloud Infrastructure (OCI)
+    └── Dokploy
+```
